@@ -1,5 +1,4 @@
-{ background: #fff }
-
+{ background: #000 }
 
 hello word!
 atividade 5
